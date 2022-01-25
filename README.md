@@ -45,6 +45,10 @@
 
 `$ python3 scraper.py`
 
+* To add to telegram group
+
+`$ python3 add2group.py members.csv
+
 * ( members.csv is default if you changed name use it )
 * Send Bulk sms To Collected Data 
 
